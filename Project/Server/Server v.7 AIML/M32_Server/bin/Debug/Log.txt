@@ -1,0 +1,306 @@
+UTC: 21-07-2020 05:04:31: Waiting for a client...
+
+UTC: 21-07-2020 05:04:50: M32: qrl?
+
+UTC: 21-07-2020 05:04:50: Server: k
+
+UTC: 21-07-2020 05:05:09: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 05:05:09: Server: oz1thc de q5xu/2 <kn>
+
+UTC: 21-07-2020 05:05:34: Client: hew <kn> 
+
+UTC: 21-07-2020 05:05:34: Server: op?  <kn>
+
+UTC: 21-07-2020 05:05:55: Waiting for a client...
+
+UTC: 21-07-2020 05:06:09: M32: qrl?
+
+UTC: 21-07-2020 05:06:09: Server: k
+
+UTC: 21-07-2020 05:06:34: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 05:06:34: Server: oz1thc de q7jvy/1 <kn>
+
+UTC: 21-07-2020 05:06:59: Client: kn <kn> 
+
+UTC: 21-07-2020 05:06:59: Server: oz1thc de q7jvy/1 op? oz1thc de q7jvy/1  <kn>
+
+UTC: 21-07-2020 05:11:35: Waiting for a client...
+
+UTC: 21-07-2020 05:12:06: M32: qrl?
+
+UTC: 21-07-2020 05:12:06: Server: k
+
+UTC: 21-07-2020 05:12:24: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 05:12:24: Server: oz1thc de q3qzu <kn>
+
+UTC: 21-07-2020 05:13:21: Client: q3qbi q q3 q3qts q3g q3qdu de oz1thc kn <kn> 
+
+UTC: 21-07-2020 05:13:21: Server: op?  <kn>
+
+UTC: 21-07-2020 05:13:58: Waiting for a client...
+
+UTC: 21-07-2020 05:14:28: Waiting for a client...
+
+UTC: 21-07-2020 05:14:47: M32: qrl?
+
+UTC: 21-07-2020 05:14:47: Server: k
+
+UTC: 21-07-2020 05:15:06: Client: cqde oz1thc  k
+
+UTC: 21-07-2020 05:15:27: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 05:15:40: Server: oz1thc de q8yx <kn>
+
+UTC: 21-07-2020 05:16:31: Client: q8yx de ozm q8yx de oz1thc <kn> 
+
+UTC: 21-07-2020 05:16:39: Server: oz1thc de q8yx op? oz1thc de q8yx  <kn>
+
+UTC: 21-07-2020 05:16:56: Waiting for a client...
+
+UTC: 21-07-2020 05:17:26: M32: qrl?
+
+UTC: 21-07-2020 05:17:26: Server: k
+
+UTC: 21-07-2020 05:17:46: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 05:17:49: Server: oz1thc de q5qzq <kn>
+
+UTC: 21-07-2020 05:18:21: Client: op tommy <kn> 
+
+UTC: 21-07-2020 05:18:26: Server: op?  <kn>
+
+UTC: 21-07-2020 06:59:22: Waiting for a client...
+
+UTC: 21-07-2020 06:59:56: M32: qrl?
+
+UTC: 21-07-2020 06:59:56: Server: k
+
+UTC: 21-07-2020 07:00:23: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 07:00:23: Server: oz1thc de q2q5f <kn>
+
+UTC: 21-07-2020 07:02:11: Waiting for a client...
+
+UTC: 21-07-2020 07:02:33: M32: qrl?
+
+UTC: 21-07-2020 07:02:33: Server: k
+
+UTC: 21-07-2020 07:02:59: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 07:02:59: Server: oz1thc de q3q4/8 <kn>
+
+UTC: 21-07-2020 07:04:01: Waiting for a client...
+
+UTC: 21-07-2020 07:07:03: Waiting for a client...
+
+UTC: 21-07-2020 07:07:14: M32: qrl?
+
+UTC: 21-07-2020 07:07:14: Server: k
+
+UTC: 21-07-2020 07:07:41: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 07:07:41: Server: oz1thc de q5xzj/6 <kn>
+
+UTC: 21-07-2020 07:08:30: Client: q5xzj/6 de oz1thc <kn> 
+
+UTC: 21-07-2020 07:08:30: Server: oz1thc de q5xzj/6 op? oz1thc de q5xzj/6  <kn>
+
+UTC: 21-07-2020 07:08:53: Client: op tommy <kn> 
+
+UTC: 21-07-2020 07:08:53: Server: op?  <kn>
+
+UTC: 21-07-2020 07:09:19: Client: goodbye <sk> 
+
+UTC: 21-07-2020 07:09:19: Server: oz1thc de q5xzj/6 tnx fer nice qso 73 73 oz1thc de q5xzj/6 <sk>
+
+UTC: 21-07-2020 12:01:40: Waiting for a client...
+
+UTC: 21-07-2020 12:02:20: M32: qrl?
+
+UTC: 21-07-2020 12:02:20: Server: k
+
+UTC: 21-07-2020 12:02:47: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 12:04:25: Waiting for a client...
+
+UTC: 21-07-2020 12:04:47: M32: qrl?
+
+UTC: 21-07-2020 12:04:47: Server: k
+
+UTC: 21-07-2020 12:05:14: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 12:05:14: Server: oz1thc de q4pqp/6 <kn>
+
+UTC: 21-07-2020 12:06:09: Client: q4pqp/6 de oz1thc <kn> 
+
+UTC: 21-07-2020 12:06:09: Server: oz1thc de q4pqp/6 ur rst is 488 488 hw copy? oz1thc de q4pqp/6  <kn>
+
+UTC: 21-07-2020 12:06:51: Client: rst 589 <kn> 
+
+UTC: 21-07-2020 12:06:51: Server: oz1thc de q4pqp/6 rst ? oz1thc de q4pqp/6   <kn>
+
+UTC: 21-07-2020 12:08:54: Waiting for a client...
+
+UTC: 21-07-2020 12:09:15: M32: qrl?
+
+UTC: 21-07-2020 12:09:15: Server: k
+
+UTC: 21-07-2020 12:09:44: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 12:09:44: Server: oz1thc de q7zn/8 <kn>
+
+UTC: 21-07-2020 12:10:22: Client: q7zn/8 de oz1thc <kn> 
+
+UTC: 21-07-2020 12:10:22: Server: oz1thc de q7zn/8 rst? oz1thc de q7zn/8   <kn>
+
+UTC: 21-07-2020 12:10:52: Client: rst 589 <kn> 
+
+UTC: 21-07-2020 12:10:52: Server: oz1thc de q7zn/8 ur rst is 468 468 hw copy? oz1thc de q7zn/8  <kn>
+
+UTC: 21-07-2020 12:11:45: Client: tnx for report <kn> 
+
+UTC: 21-07-2020 12:11:45: Server: oz1thc de q7zn/8 ur rst is 468 468 hw copy? oz1thc de q7zn/8  <kn>
+
+UTC: 21-07-2020 12:12:18: Client: rst 589 <kn> 
+
+UTC: 21-07-2020 12:12:18: Server: oz1thc de q7zn/8 ur rst is 468 468 hw copy? oz1thc de q7zn/8  <kn>
+
+UTC: 21-07-2020 12:15:39: Waiting for a client...
+
+UTC: 21-07-2020 12:15:59: M32: qrl?
+
+UTC: 21-07-2020 12:15:59: Server: k
+
+UTC: 21-07-2020 12:16:29: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 12:16:29: Server: oz1thc de q6q3v/2 <kn>
+
+UTC: 21-07-2020 12:20:35: Waiting for a client...
+
+UTC: 21-07-2020 12:20:53: M32: qrl?
+
+UTC: 21-07-2020 12:20:53: Server: k
+
+UTC: 21-07-2020 12:21:21: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 12:21:21: Server: oz1thc de q2yxj/8 <kn>
+
+UTC: 21-07-2020 12:22:14: Client: q2yxj/8 de oz1thc <kn> 
+
+UTC: 21-07-2020 12:22:25: Server: oz1thc de q2yxj/8 ur rst is 478 478 hw copy? oz1thc de q2yxj/8  <kn>
+
+UTC: 21-07-2020 12:22:47: Server: rst 589 $
+
+UTC: 21-07-2020 12:22:47: rst 589 <kn> 
+
+UTC: 21-07-2020 12:34:47: Waiting for a client...
+
+UTC: 21-07-2020 12:35:35: M32: qrl?
+
+UTC: 21-07-2020 12:35:35: Server: k
+
+UTC: 21-07-2020 12:36:06: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 12:36:06: Server: oz1thc de q7v <kn>
+
+UTC: 21-07-2020 12:36:36: Client: rst 589 <kn> 
+
+UTC: 21-07-2020 12:36:36: Server: oz1thc de q7v ur rst is 588 588 hw copy? oz1thc de q7v  <kn>
+
+UTC: 21-07-2020 12:37:32: Client: rst 569 <kn> 
+
+UTC: 21-07-2020 12:38:57: Server: oz1thc de q7v name? oz1thc de q7v   <kn>
+
+UTC: 21-07-2020 12:39:26: Client: rst 455 <kn> 
+
+UTC: 21-07-2020 12:44:30: Waiting for a client...
+
+UTC: 21-07-2020 12:45:14: M32: qrl?
+
+UTC: 21-07-2020 12:45:14: Server: k
+
+UTC: 21-07-2020 12:45:37: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 12:45:37: Server: oz1thc de q3xzs/1 <kn>
+
+UTC: 21-07-2020 12:46:10: Client: q3xzs/1 de oz1thc <kn> 
+
+UTC: 21-07-2020 12:46:10: Server: oz1thc de q3xzs/1 ur rst is 478 478 hw copy? oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 12:46:36: Client: rst 579 <kn> 
+
+UTC: 21-07-2020 12:46:36: Server: oz1thc de q3xzs/1 op? oz1thc de q3xzs/1   <kn>
+
+UTC: 21-07-2020 12:47:02: Client: op tommy <kn> 
+
+UTC: 21-07-2020 12:47:02: Server: oz1thc de q3xzs/1 fb tommy my qth is hanna, wyoming oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 12:48:13: Client: op? <kn> 
+
+UTC: 21-07-2020 12:48:13: Server: oz1thc de q3xzs/1 name hr is daniel oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 12:49:15: Client: qth nyborg <kn> 
+
+UTC: 21-07-2020 12:49:15: Server: oz1thc de q3xzs/1 fb tommy I am 72 old oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 12:50:23: Client: age 52 <kn> 
+
+UTC: 21-07-2020 12:50:23: Server: oz1thc de q3xzs/1 fb tommy rig hr is kenwood sb725 oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 12:51:52: Client: rig ic7300 <kn> 
+
+UTC: 21-07-2020 12:51:52: Server: oz1thc de q3xzs/1 fb tommy what is ur pw? oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 12:53:17: Client: watt 125 <kn> 
+
+UTC: 21-07-2020 12:53:17: Server: oz1thc de q3xzs/1 fb tommy what is ur pw? oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 12:54:30: Client: watt 125 <kn> 
+
+UTC: 21-07-2020 12:54:30: Server: oz1thc de q3xzs/1 fb tommy what is ur pw? oz1thc de q3xzs/1  <kn>
+
+UTC: 21-07-2020 19:28:37: Waiting for a client...
+
+UTC: 21-07-2020 19:29:07: M32: qrl?
+
+UTC: 21-07-2020 19:29:07: Server: k
+
+UTC: 21-07-2020 19:29:27: Client: cq de oz1thc  k
+
+UTC: 21-07-2020 19:29:27: Server: oz1thc de q7qqg/3 <kn>
+
+UTC: 21-07-2020 19:29:57: Client:  <sk> 
+
+UTC: 21-07-2020 19:29:57: Server: oz1thc de q7qqg/3 tnx fer nice qso 73 73 oz1thc de q7qqg/3 <sk>
+
+UTC: 21-07-2020 19:31:16: M32: echo?
+
+UTC: 21-07-2020 19:31:16: Server: k
+
+UTC: 21-07-2020 19:31:42: Client: ttommy <kn> 
+
+UTC: 21-07-2020 19:31:42: Server: ttommy $ 
+
+UTC: 21-07-2020 19:32:41: Waiting for a client...
+
+UTC: 21-07-2020 19:33:01: M32: echo?
+
+UTC: 21-07-2020 19:33:01: Server: k
+
+UTC: 21-07-2020 19:34:14: Client: tommy <kn> 
+
+UTC: 21-07-2020 19:34:14: Server: tommy <kn> 
+
+UTC: 21-07-2020 19:36:02: Waiting for a client...
+
+UTC: 21-07-2020 19:36:13: M32: echo?
+
+UTC: 21-07-2020 19:36:13: Server: k
+
+UTC: 21-07-2020 19:36:31: Client: tommy kn <kn> 
+
+UTC: 21-07-2020 19:36:31: Server: tommy kn <kn> 
+
