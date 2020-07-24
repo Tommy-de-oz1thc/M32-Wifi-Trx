@@ -1,0 +1,10 @@
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\bin\Debug\M32_Client.exe.config
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\bin\Debug\M32_Client.exe
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\bin\Debug\M32_Client.pdb
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\obj\Debug\M32_Client.csprojAssemblyReference.cache
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\obj\Debug\M32_Client.Client.resources
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\obj\Debug\M32_Client.Properties.Resources.resources
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\obj\Debug\M32_Client.csproj.GenerateResource.cache
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\obj\Debug\M32_Client.csproj.CoreCompileInputs.cache
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\obj\Debug\M32_Client.exe
+C:\Users\tommy\OneDrive\Dokumenter\Visual Studio 2019\Code Snippets\Visual C#\My Code Snippets\M32_Client\M32_Client\obj\Debug\M32_Client.pdb
